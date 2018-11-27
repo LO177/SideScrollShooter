@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Parsing headers for SideScrollShooterEditor
+    Running UnrealHeaderTool "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\SideScrollShooter.uproject" "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\SideScrollShooterEditor\Development\SideScrollShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SideScrollShooterEditor in 12.2277663 seconds
+  Building 5 actions with 4 processes...
+    [1/5] SideScrollShooter.init.gen.cpp
+    [2/5] WeaponBase.cpp
+    [3/5] WeaponBase.gen.cpp
+    [4/5] UE4Editor-SideScrollShooter-3012.lib
+       Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-3012.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-3012.exp
+    [5/5] UE4Editor-SideScrollShooter-3012.dll
+       Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-3012.suppressed.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-3012.suppressed.exp
+  Deploying SideScrollShooterEditor Win64 Development...
+  Total build time: 17.26 seconds (Parallel executor: 2.06 seconds)

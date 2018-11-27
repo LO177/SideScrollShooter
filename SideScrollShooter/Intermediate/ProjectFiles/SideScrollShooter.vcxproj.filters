@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SideScrollShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2514BFA2-7C4B-40F6-935E-8C7975210204}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideScrollShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SideScrollShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E899CD66-A67D-48F9-BE16-0FB63B9C55AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SideScrollShooter">
+      <UniqueIdentifier>{5C926AC5-20B5-456F-9690-C30B88E1FDC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideScrollShooter\SideScrollShooter.Build.cs">
+      <Filter>Source\SideScrollShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SideScrollShooter\SideScrollShooter.cpp">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideScrollShooter\SideScrollShooter.h">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideScrollShooter\WeaponBase.cpp">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideScrollShooter\WeaponBase.h">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SideScrollShooter\PlayerCharacter.h">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\SideScrollShooter\PlayerCharacter.cpp">
+      <Filter>Source\SideScrollShooter</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

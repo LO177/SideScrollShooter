@@ -1,0 +1,1120 @@
+﻿Log file open, 11/23/18 11:01:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SideScrollShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.097546
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.357s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1607 v3 @ 3.10GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.23-11.01.45:408][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.23-11.01.45:408][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.23-11.01.45:457][  0]LogHAL: Display: Platform has ~ 16 GB [17083682816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.23-11.01.45:467][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.23-11.01.45:467][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.23-11.01.45:561][  0]LogInit: Computer: S500-12
+[2018.11.23-11.01.45:561][  0]LogInit: User: l017081h
+[2018.11.23-11.01.45:561][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.23-11.01.45:561][  0]LogInit: High frequency timer resolution =3.020349 MHz
+[2018.11.23-11.01.45:562][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.23-11.01.45:570][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.23-11.01.45:570][  0]LogMemory: Process Physical Memory: 99.92 MB used, 99.92 MB peak
+[2018.11.23-11.01.45:570][  0]LogMemory: Process Virtual Memory: 84.16 MB used, 84.16 MB peak
+[2018.11.23-11.01.45:570][  0]LogMemory: Physical Memory: 6836.40 MB used,  9455.87 MB free, 16292.27 MB total
+[2018.11.23-11.01.45:570][  0]LogMemory: Virtual Memory: 4620.27 MB used,  9455.87 MB free, 134217728.00 MB total
+[2018.11.23-11.01.46:243][  0]LogInit: Using OS detected language (en-US).
+[2018.11.23-11.01.46:243][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.23-11.01.46:347][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.23-11.01.47:140][  0]LogStreaming: Display: Took  0.897s to InitEngineTextLocalization.
+[2018.11.23-11.01.47:141][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.23-11.01.47:766][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.23-11.01.47:766][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.23-11.01.51:077][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.23-11.01.51:080][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.23-11.01.51:171][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.11.23-11.01.51:171][  0]LogD3D11RHI:       4043/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.23-11.01.51:173][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.23-11.01.51:173][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.23-11.01.51:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.23-11.01.51:183][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.23-11.01.51:183][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.23-11.01.51:199][  0]LogWindows: EnumDisplayDevices:
+[2018.11.23-11.01.51:200][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.11.23-11.01.51:200][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.11.23-11.01.51:201][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.23-11.01.51:201][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.23-11.01.51:201][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.23-11.01.51:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.11.23-11.01.51:202][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.11.23-11.01.51:202][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.11.23-11.01.51:202][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.11.23-11.01.51:255][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.23-11.01.51:402][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.23-11.01.51:532][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Intermediate/Shaders/WorkingDirectory/10448/).
+[2018.11.23-11.01.51:532][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/l017081h/AppData/Local/Temp/UnrealShaderWorkingDir/B00DD25347AB89732DB72B9BD2C7CE05/'.
+[2018.11.23-11.01.52:184][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.23-11.01.52:217][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.23-11.01.52:242][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.23-11.01.52:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.23-11.01.52:311][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.23-11.01.52:348][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.23-11.01.52:374][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.23-11.01.52:405][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.23-11.01.52:433][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:612][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.23-11.01.52:655][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.23-11.01.52:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.23-11.01.52:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.23-11.01.52:865][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.23-11.01.52:865][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.23-11.01.52:941][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.23-11.01.53:038][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.23-11.01.53:072][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.23-11.01.53:155][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.23-11.01.53:190][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.23-11.01.53:190][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.23-11.01.53:789][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.23-11.01.53:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.23-11.01.53:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.23-11.01.58:252][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.23-11.01.58:713][  0]LogDerivedDataCache: Loaded boot cache 0.46s 73MB C:/Users/l017081h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.23-11.01.58:715][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/l017081h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.23-11.01.58:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.23-11.01.58:715][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.23-11.01.58:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.23-11.01.58:715][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.23-11.01.58:807][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.23-11.01.58:820][  0]LogDerivedDataCache: Using Local data cache path C:/Users/l017081h/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.23-11.01.58:820][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.23-11.01.58:820][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.23-11.01.58:876][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.23-11.01.58:909][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.23-11.01.58:989][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.23-11.01.59:936][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2018.11.23-11.02.04:266][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.23-11.02.07:754][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.23-11.02.08:223][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.23-11.02.08:224][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.23-11.02.08:230][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.23-11.02.08:230][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.23-11.02.08:788][  0]LogNetVersion: SideScrollShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3604429178)
+[2018.11.23-11.02.14:405][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.168868 seconds
+[2018.11.23-11.02.14:425][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.23-11.02.14:425][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.23-11.02.14:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.23-11.02.48:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.23-11.02.49:030][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.23-11.02.49:926][  0]SourceControl: Source control is disabled
+[2018.11.23-11.02.49:927][  0]SourceControl: Source control is disabled
+[2018.11.23-11.02.49:999][  0]SourceControl: Source control is disabled
+[2018.11.23-11.02.50:008][  0]SourceControl: Source control is disabled
+[2018.11.23-11.02.51:076][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.23-11.02.51:285][  0]LogOcInput: OculusInput pre-init called
+[2018.11.23-11.02.51:792][  0]LogEngine: Initializing Engine...
+[2018.11.23-11.02.51:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.23-11.02.51:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.23-11.02.51:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.23-11.02.51:853][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.23-11.02.51:853][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.23-11.02.52:183][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.23-11.02.52:343][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.23-11.02.52:418][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.23-11.02.52:462][  0]LogInit: FAudioDevice initialized.
+[2018.11.23-11.02.52:462][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.23-11.02.52:611][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/l017081h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.23-11.02.52:632][  0]LogInit: Texture streaming: Enabled
+[2018.11.23-11.02.52:795][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.23-11.02.52:924][  0]LogInit: Transaction tracking system initialized
+[2018.11.23-11.02.53:209][  0]BlueprintLog: New page: Editor Load
+[2018.11.23-11.02.54:263][  0]LocalizationService: Localization service is disabled
+[2018.11.23-11.02.56:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.23-11.02.56:287][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.23-11.02.56:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/' took 0.02s
+[2018.11.23-11.02.56:302][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.23-11.02.56:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.23-11.02.56:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.23-11.02.56:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.23-11.02.56:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.23-11.02.58:863][  0]SourceControl: Source control is disabled
+[2018.11.23-11.02.59:022][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Epic/UE4/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.11.23-11.02.59:139][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.11.23-11.02.59:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.11.23-11.02.59:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.11.23-11.02.59:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.11.23-11.02.59:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.11.23-11.02.59:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.11.23-11.02.59:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.11.23-11.02.59:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.11.23-11.02.59:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.11.23-11.02.59:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.11.23-11.02.59:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.11.23-11.02.59:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.11.23-11.02.59:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.11.23-11.02.59:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.11.23-11.02.59:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.11.23-11.02.59:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.11.23-11.02.59:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.11.23-11.02.59:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.11.23-11.02.59:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Fire01.uasset"
+[2018.11.23-11.02.59:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.11.23-11.02.59:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.11.23-11.02.59:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.11.23-11.02.59:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Light01.uasset"
+[2018.11.23-11.02.59:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.11.23-11.02.59:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Light02.uasset"
+[2018.11.23-11.02.59:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.11.23-11.02.59:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.11.23-11.02.59:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.11.23-11.02.59:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.11.23-11.02.59:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.11.23-11.02.59:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.11.23-11.02.59:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.11.23-11.02.59:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.11.23-11.02.59:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.11.23-11.02.59:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Steam01.uasset"
+[2018.11.23-11.02.59:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.11.23-11.02.59:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.11.23-11.02.59:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.11.23-11.03.00:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.11.23-11.03.00:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.11.23-11.03.00:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.11.23-11.03.00:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.11.23-11.03.00:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.11.23-11.03.00:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.11.23-11.03.00:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.11.23-11.03.00:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.11.23-11.03.00:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.11.23-11.03.00:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.11.23-11.03.00:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.11.23-11.03.00:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.11.23-11.03.00:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.11.23-11.03.00:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.11.23-11.03.01:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.11.23-11.03.01:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.11.23-11.03.01:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.11.23-11.03.01:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.11.23-11.03.01:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.11.23-11.03.01:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/StarterMap.umap"
+[2018.11.23-11.03.01:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.11.23-11.03.01:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.11.23-11.03.01:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.11.23-11.03.01:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.11.23-11.03.01:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.11.23-11.03.01:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.11.23-11.03.01:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.11.23-11.03.01:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.11.23-11.03.01:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.11.23-11.03.01:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.11.23-11.03.01:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.11.23-11.03.01:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.11.23-11.03.01:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.11.23-11.03.01:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.11.23-11.03.01:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.11.23-11.03.01:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.11.23-11.03.01:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.11.23-11.03.01:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.11.23-11.03.01:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.11.23-11.03.01:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.11.23-11.03.01:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.11.23-11.03.01:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.11.23-11.03.01:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.11.23-11.03.01:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.11.23-11.03.01:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.11.23-11.03.01:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.11.23-11.03.01:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.11.23-11.03.01:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.11.23-11.03.01:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.11.23-11.03.01:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.11.23-11.03.01:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.11.23-11.03.01:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.11.23-11.03.01:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.11.23-11.03.01:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.11.23-11.03.02:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.11.23-11.03.02:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.11.23-11.03.02:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.11.23-11.03.02:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.11.23-11.03.02:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.11.23-11.03.02:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.11.23-11.03.02:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.11.23-11.03.02:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.11.23-11.03.02:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.11.23-11.03.02:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.11.23-11.03.02:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.11.23-11.03.02:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.11.23-11.03.02:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.11.23-11.03.02:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.11.23-11.03.02:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.11.23-11.03.02:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.11.23-11.03.02:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.11.23-11.03.02:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.11.23-11.03.02:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.11.23-11.03.02:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.11.23-11.03.02:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.11.23-11.03.02:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.11.23-11.03.02:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.11.23-11.03.02:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.11.23-11.03.02:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.11.23-11.03.02:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.11.23-11.03.02:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.11.23-11.03.02:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.11.23-11.03.02:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.11.23-11.03.02:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.11.23-11.03.02:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.11.23-11.03.02:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Door.uasset"
+[2018.11.23-11.03.02:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.11.23-11.03.02:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.11.23-11.03.02:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.11.23-11.03.02:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.11.23-11.03.02:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.11.23-11.03.02:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.11.23-11.03.02:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.11.23-11.03.02:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.11.23-11.03.02:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.11.23-11.03.02:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.11.23-11.03.03:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.11.23-11.03.03:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.11.23-11.03.03:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.11.23-11.03.03:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.11.23-11.03.03:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.11.23-11.03.03:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.11.23-11.03.03:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.11.23-11.03.03:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.11.23-11.03.03:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.11.23-11.03.03:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.11.23-11.03.03:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.11.23-11.03.03:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.11.23-11.03.03:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.11.23-11.03.03:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.11.23-11.03.03:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.11.23-11.03.03:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.11.23-11.03.03:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.11.23-11.03.03:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.11.23-11.03.03:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.11.23-11.03.03:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.11.23-11.03.03:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.11.23-11.03.03:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.11.23-11.03.03:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.11.23-11.03.03:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.11.23-11.03.03:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.11.23-11.03.03:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.11.23-11.03.03:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.11.23-11.03.03:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.11.23-11.03.03:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.11.23-11.03.03:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.11.23-11.03.03:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.11.23-11.03.03:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.11.23-11.03.03:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.11.23-11.03.03:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.11.23-11.03.03:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.11.23-11.03.03:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.11.23-11.03.04:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.11.23-11.03.04:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.11.23-11.03.04:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.11.23-11.03.04:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.11.23-11.03.04:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.11.23-11.03.04:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.11.23-11.03.04:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.11.23-11.03.04:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.11.23-11.03.04:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.11.23-11.03.05:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.11.23-11.03.05:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.11.23-11.03.05:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.11.23-11.03.05:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.11.23-11.03.05:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.11.23-11.03.05:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.11.23-11.03.05:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.11.23-11.03.05:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.11.23-11.03.05:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.11.23-11.03.05:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.11.23-11.03.05:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.11.23-11.03.05:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.11.23-11.03.05:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.11.23-11.03.05:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.11.23-11.03.05:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.11.23-11.03.05:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.11.23-11.03.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.11.23-11.03.06:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.11.23-11.03.06:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.11.23-11.03.06:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.11.23-11.03.06:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.11.23-11.03.06:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.11.23-11.03.06:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.11.23-11.03.06:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.11.23-11.03.06:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.11.23-11.03.06:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.11.23-11.03.07:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.11.23-11.03.07:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.11.23-11.03.07:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.11.23-11.03.07:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.11.23-11.03.07:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.11.23-11.03.07:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.11.23-11.03.07:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.11.23-11.03.07:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.11.23-11.03.07:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.11.23-11.03.07:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.11.23-11.03.07:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.11.23-11.03.07:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.11.23-11.03.07:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.11.23-11.03.07:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.11.23-11.03.08:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.11.23-11.03.08:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.11.23-11.03.08:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.11.23-11.03.08:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.11.23-11.03.08:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.11.23-11.03.08:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.11.23-11.03.09:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.11.23-11.03.09:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.11.23-11.03.09:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.11.23-11.03.09:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.11.23-11.03.09:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.11.23-11.03.09:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.11.23-11.03.09:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.11.23-11.03.09:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.11.23-11.03.09:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.11.23-11.03.09:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.11.23-11.03.10:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.11.23-11.03.10:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.11.23-11.03.10:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.11.23-11.03.10:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.11.23-11.03.10:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.11.23-11.03.10:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.11.23-11.03.10:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.11.23-11.03.10:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.11.23-11.03.11:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.11.23-11.03.11:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.11.23-11.03.11:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.11.23-11.03.11:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.11.23-11.03.11:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.11.23-11.03.11:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.11.23-11.03.11:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.11.23-11.03.11:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.11.23-11.03.11:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.11.23-11.03.11:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.11.23-11.03.11:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.11.23-11.03.11:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.11.23-11.03.11:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.11.23-11.03.11:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.11.23-11.03.11:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.11.23-11.03.11:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.11.23-11.03.11:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.11.23-11.03.11:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.11.23-11.03.11:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.11.23-11.03.11:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.11.23-11.03.11:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.11.23-11.03.11:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.11.23-11.03.12:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.11.23-11.03.12:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.11.23-11.03.12:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.11.23-11.03.12:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.11.23-11.03.12:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.11.23-11.03.12:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.11.23-11.03.12:985][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.11.23-11.03.13:028][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.11.23-11.03.13:833][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.11.23-11.03.14:097][  0]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/Floor_400x4007F5D7D05496F3746866D7B9A01712B29.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.11.23-11.03.14:121][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.11.23-11.03.14:126][  0]Cmd: MAP LOAD FILE="../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.23-11.03.14:138][  0]LightingResults: New page: Lighting Build
+[2018.11.23-11.03.14:337][  0]MapCheck: New page: Map Check
+[2018.11.23-11.03.14:337][  0]LightingResults: New page: Lighting Build
+[2018.11.23-11.03.15:640][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.23-11.03.15:802][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.23-11.03.16:087][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.23-11.03.16:378][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 290.864ms to complete.
+[2018.11.23-11.03.16:402][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 2.276
+[2018.11.23-11.03.17:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.17:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.17:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.17:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.17:164][  0]LogCollectionManager: Loaded 0 collections in 0.004785 seconds
+[2018.11.23-11.03.17:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/Collections/' took 0.01s
+[2018.11.23-11.03.17:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/Developers/l017081h/Collections/' took 0.01s
+[2018.11.23-11.03.17:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/Collections/' took 0.01s
+[2018.11.23-11.03.17:782][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.23-11.03.17:797][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2018.11.23-11.03.17:872][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.23-11.03.20:626][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.23-11.03.20:729][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.23-11.03.20:990][  0]LogSlate: Took 0.029320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.23-11.03.21:019][  0]LogSlate: Took 0.026669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.23-11.03.21:059][  0]LogSlate: Took 0.017477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.23-11.03.21:528][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.23-11.03.21:807][  0]LogSlate: Took 0.024167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.23-11.03.22:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.23-11.03.22:045][  0]LogLoad: (Engine Initialization) Total time: 119.16 seconds
+[2018.11.23-11.03.22:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.23-11.03.22:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.23-11.03.22:481][  2]LogAssetRegistry: Asset discovery search completed in 82.5681 seconds
+[2018.11.23-11.03.22:483][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.23-11.03.22:483][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.11.23-11.03.42:829][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.03.42:903][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-11.03.42:968][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.03.42:976][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.23-11.03.43:053][294]PIE: New page: PIE session: 2DSideScrollerExampleMap (23 Nov 2018 11:03:43)
+[2018.11.23-11.03.43:059][294]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.23-11.03.43:116][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057272s)
+[2018.11.23-11.03.43:117][294]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.23-11.03.43:127][294]LogPlayLevel: PIE: World Init took: (0.011457s)
+[2018.11.23-11.03.43:137][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.078336s)
+[2018.11.23-11.03.43:190][294]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.23-11.03.43:208][294]LogInit: FAudioDevice initialized.
+[2018.11.23-11.03.43:302][294]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.23-11.03.43:444][294]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.23-11.03.43
+[2018.11.23-11.03.43:460][294]LogWorld: Bringing up level for play took: 0.016467
+[2018.11.23-11.03.43:627][294]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.11.23-11.03.43:629][294]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.961
+[2018.11.23-11.03.43:629][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.03.50:181][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.03.50:220][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.50:254][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.23-11.03.50:255][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.03.50:282][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.03.50:326][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.11.23-11.04.01:225][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.04.22:182][756]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.23-11.04.22:413][756]LogSlate: Took 0.035758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.23-11.05.19:060][487]Running C:/Epic/UE4/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/SideScrollShooter.uproject" -game -rocket -progress
+[2018.11.23-11.05.19:590][487]Discovering modules, targets and source code for project...
+[2018.11.23-11.05.30:089][487]C:\Epic\UE4\UE_4.20\Engine\Source\ThirdParty\Expat\Expat.Build.cs: warning: Referenced directory 'C:\Epic\UE4\UE_4.20\Engine\Source\ThirdParty\Expat\expat-2.2.0\Win64\VS2015\Release' does not exist.
+[2018.11.23-11.05.44:953][487]LogHotReload: Recompiling module SideScrollShooter...
+[2018.11.23-11.05.44:960][487]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.11.23-11.05.45:040][487]Candidate modules for hot reload:
+[2018.11.23-11.05.45:040][487]  SideScrollShooter
+[2018.11.23-11.05.45:045][487]Launching UnrealBuildTool... [C:/Epic/UE4/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SideScrollShooter,7625 Win64 Development -TargetType=Editor -Project="../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/SideScrollShooter.uproject" -canskiplink -nosharedpch "C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/SideScrollShooter.uproject" ]
+[2018.11.23-11.07.26:010][487]Performing full C++ include scan (hot reloading a new target)
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for hot reloading SideScrollShooterEditor (no existing makefile)
+Compiling game modules for hot reload
+Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Parsing headers for SideScrollShooterEditor
+  Running UnrealHeaderTool "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\SideScrollShooter.uproject" "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\SideScrollShooterEditor\Development\SideScrollShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for SideScrollShooterEditor in 14.5414467 seconds
+Building 7 actions with 4 processes...
+  [1/7] SideScrollShooter.init.gen.cpp
+  [2/7] SideScrollShooter.cpp
+  [3/7] PCLaunch.rc
+  [4/7] WeaponBase.cpp
+  [5/7] WeaponBase.gen.cpp
+  [6/7] UE4Editor-SideScrollShooter-7625.lib
+     Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.exp
+  [7/7] UE4Editor-SideScrollShooter-7625.dll
+     Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.suppressed.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.suppressed.exp
+Total build time: 100.64 seconds (Parallel executor: 8.26 seconds)
+
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: New page: Compilation - 23 Nov 2018 11:07:26
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Creating makefile for hot reloading SideScrollShooterEditor (no existing makefile)
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Parsing headers for SideScrollShooterEditor
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\SideScrollShooter.uproject" "C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\SideScrollShooterEditor\Development\SideScrollShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Reflection code generated for SideScrollShooterEditor in 14.5414467 seconds
+[2018.11.23-11.07.26:018][487]CompilerResultsLog: Building 7 actions with 4 processes...
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [1/7] SideScrollShooter.init.gen.cpp
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [2/7] SideScrollShooter.cpp
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [3/7] PCLaunch.rc
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [4/7] WeaponBase.cpp
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [5/7] WeaponBase.gen.cpp
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [6/7] UE4Editor-SideScrollShooter-7625.lib
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:      Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.exp
+[2018.11.23-11.07.26:018][487]CompilerResultsLog:   [7/7] UE4Editor-SideScrollShooter-7625.dll
+[2018.11.23-11.07.26:019][487]CompilerResultsLog:      Creating library C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.suppressed.lib and object C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Intermediate\Build\Win64\UE4Editor\Development\SideScrollShooter\UE4Editor-SideScrollShooter-7625.suppressed.exp
+[2018.11.23-11.07.26:019][487]CompilerResultsLog: Total build time: 100.64 seconds (Parallel executor: 8.26 seconds)
+[2018.11.23-11.07.26:019][487]LogMainFrame: MainFrame: Module compiling took 101.060 seconds
+[2018.11.23-11.07.26:019][487]Reloading module SideScrollShooter after successful compile.
+[2018.11.23-11.07.26:088][487]LogClass: Could not find existing package /Script/SideScrollShooter for HotReload of class WeaponBase, assuming a new package.
+[2018.11.23-11.07.26:092][487]LogContentBrowser: Native class hierarchy updated for 'SideScrollShooter' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.11.23-11.07.26:134][487]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2574 classes and 607 folders.
+[2018.11.23-11.07.26:242][487]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.11.23-11.07.35:370][909]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.11.23-11.38.46:764][216]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.23-11.38.59:799][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprints/WeaponRifle.WeaponRifle
+[2018.11.23-11.39.01:336][752]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 116 classes and 0 folders.
+[2018.11.23-11.39.55:185][714]LogEditorTransaction: Undo Add Node
+[2018.11.23-11.39.58:741][116]LogEditorTransaction: Redo Add Node
+[2018.11.23-11.41.56:721][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.035
+[2018.11.23-11.41.56:733][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/WeaponRifle] ([1] browsable assets)...
+[2018.11.23-11.41.56:733][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/WeaponRifle]
+[2018.11.23-11.41.56:792][292]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/WeaponRifle_Auto1F6D6AB6F4E6614C1D122C097C6A8F14B.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/Autosaves/Game/blueprints/WeaponRifle_Auto1.uasset'
+[2018.11.23-11.41.56:796][292]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.11.23-11.42.59:273][ 52]Cmd: TRANSACTION UNDO
+[2018.11.23-11.42.59:273][ 52]LogEditorTransaction: Undo Add Variable
+[2018.11.23-11.45.15:980][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/WeaponRifle" FILE="../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/blueprints/WeaponRifle.uasset" SILENT=true
+[2018.11.23-11.45.16:016][ 63]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/WeaponRifleC5E347D84A199836AA77F6B45E9B938D.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/blueprints/WeaponRifle.uasset'
+[2018.11.23-11.45.16:490][117]BlueprintLog: New page: Compile WeaponRifle
+[2018.11.23-11.50.06:133][942]LogSlate: Window 'WeaponRifle' being destroyed
+[2018.11.23-11.50.06:137][942]LogSlate: Window 'WeaponRifle' being destroyed
+[2018.11.23-11.50.07:326][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-11.50.07:380][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.50.07:381][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.23-11.50.07:381][ 74]PIE: New page: PIE session: 2DSideScrollerExampleMap (23 Nov 2018 11:50:07)
+[2018.11.23-11.50.07:381][ 74]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.23-11.50.07:388][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2018.11.23-11.50.07:389][ 74]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.23-11.50.07:390][ 74]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2018.11.23-11.50.07:390][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008546s)
+[2018.11.23-11.50.07:457][ 74]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.23-11.50.07:475][ 74]LogInit: FAudioDevice initialized.
+[2018.11.23-11.50.07:512][ 74]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.23-11.50.07:514][ 74]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.23-11.50.07
+[2018.11.23-11.50.07:514][ 74]LogWorld: Bringing up level for play took: 0.001200
+[2018.11.23-11.50.07:527][ 74]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.86
+[2018.11.23-11.50.07:527][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.50.20:253][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.50.20:253][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.50.20:290][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.23-11.50.20:290][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.50.20:341][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.50.20:370][601]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.23-11.50.28:116][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.33:813][447]Cmd: TRANSACTION UNDO
+[2018.11.23-11.50.33:813][447]LogEditorTransaction: Undo Move Node
+[2018.11.23-11.50.37:067][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.39:425][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.43:180][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.45:225][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.47:758][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.49:809][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.51:340][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.50.59:456][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.51.02:511][856]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-11.51.02:520][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.02:520][856]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.23-11.51.02:521][856]LogPlayLevel: [PlayLevel] Compiling WeaponRifle before play...
+[2018.11.23-11.51.02:552][856]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2018.11.23-11.51.02:552][856]PIE: New page: PIE session: 2DSideScrollerExampleMap (23 Nov 2018 11:51:02)
+[2018.11.23-11.51.02:552][856]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.23-11.51.02:555][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002677s)
+[2018.11.23-11.51.02:556][856]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.23-11.51.02:556][856]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.11.23-11.51.02:556][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003528s)
+[2018.11.23-11.51.02:588][856]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.23-11.51.02:603][856]LogInit: FAudioDevice initialized.
+[2018.11.23-11.51.02:632][856]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.23-11.51.02:634][856]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.23-11.51.02
+[2018.11.23-11.51.02:634][856]LogWorld: Bringing up level for play took: 0.001059
+[2018.11.23-11.51.02:647][856]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.021
+[2018.11.23-11.51.02:647][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.04:128][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.04:128][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.51.04:164][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.23-11.51.04:164][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.04:195][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.51.04:234][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.23-11.51.22:196][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.51.22:271][198]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.23-11.51.22:279][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.22:280][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.23-11.51.22:280][198]PIE: New page: PIE session: 2DSideScrollerExampleMap (23 Nov 2018 11:51:22)
+[2018.11.23-11.51.22:280][198]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.23-11.51.22:283][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002695s)
+[2018.11.23-11.51.22:283][198]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.23-11.51.22:284][198]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.11.23-11.51.22:284][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003624s)
+[2018.11.23-11.51.22:317][198]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.23-11.51.22:332][198]LogInit: FAudioDevice initialized.
+[2018.11.23-11.51.22:360][198]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.23-11.51.22:362][198]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.11.23-11.51.22
+[2018.11.23-11.51.22:362][198]LogWorld: Bringing up level for play took: 0.001183
+[2018.11.23-11.51.22:375][198]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.292
+[2018.11.23-11.51.22:375][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.23:205][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.23:205][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.51.23:237][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.23-11.51.23:237][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.23-11.51.23:267][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.23-11.51.23:308][301]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.23-11.51.26:189][433]LogSlate: Window 'Save Content' being destroyed
+[2018.11.23-11.51.27:881][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.51.28:466][647]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/2DSideScrollerExampleMapA6B165EF4DE710C4A74E51A3464B7D66.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.23-11.51.28:528][647]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/2DSideScrollerExampleMap_BuiltDa416CB70A4BBFCD76FF36B990B9CC34FD.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.11.23-11.51.29:473][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.23-11.51.30:957][755]LogSlate: Window 'Save Content' being destroyed
+[2018.11.23-11.51.30:974][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.23-11.51.30:980][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/WeaponRifle" FILE="../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/blueprints/WeaponRifle.uasset" SILENT=true
+[2018.11.23-11.51.31:009][755]LogSavePackage: Moving '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Saved/WeaponRifle4DF5A237437BF64EFD283E8BBFD52D74.tmp' to '../../../../../../Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/blueprints/WeaponRifle.uasset'
+[2018.11.23-11.51.31:091][755]LogSlate: Window 'SideScrollShooter - Unreal Editor' being destroyed
+[2018.11.23-11.51.31:092][755]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.23-11.51.31:284][756]Cmd: QUIT_EDITOR
+[2018.11.23-11.51.31:439][756]LogExit: Preparing to exit.
+[2018.11.23-11.51.32:096][756]LogDirectoryWatcher: A directory notification failed for 'C:/Users/l017081h/Documents/GitHub/TGP-Projects/SideScrollShooter/Content/', and we were unable to create a new request.
+[2018.11.23-11.51.32:153][756]LogExit: Editor shut down
+[2018.11.23-11.51.32:153][756]LogExit: Transaction tracking system shut down
+[2018.11.23-11.51.32:932][756]LogExit: Object subsystem successfully closed.
+[2018.11.23-11.51.32:947][756]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.23-11.51.32:951][756]LogD3D11RHI: Shutdown
+[2018.11.23-11.51.32:951][756]LogD3D11RHI: CleanupD3DDevice
+[2018.11.23-11.51.32:956][756]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module SideScrollShooter (618)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.11.23-11.51.33:008][756]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module MeshBuilder (598)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.23-11.51.33:009][756]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.23-11.51.33:010][756]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.23-11.51.33:855][756]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.23-11.51.33:856][756]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.23-11.51.33:923][756]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.23-11.51.33:928][756]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.23-11.51.33:928][756]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.23-11.51.33:929][756]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.23-11.51.33:929][756]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.23-11.51.33:929][756]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.23-11.51.33:930][756]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.23-11.51.34:163][756]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.23-11.51.34:164][756]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.23-11.51.34:164][756]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.23-11.51.34:164][756]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.23-11.51.34:164][756]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.23-11.51.34:167][756]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.23-11.51.34:168][756]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.23-11.51.34:269][756]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.23-11.51.34:370][756]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.23-11.51.34:372][756]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.23-11.51.34:372][756]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.23-11.51.34:372][756]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.23-11.51.34:372][756]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.23-11.51.34:373][756]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.23-11.51.34:376][756]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.23-11.51.34:379][756]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.23-11.51.34:385][756]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.23-11.51.34:386][756]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.23-11.51.34:387][756]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.23-11.51.34:391][756]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.23-11.51.34:392][756]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.23-11.51.34:457][756]LogDerivedDataCache: Shutdown
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.23-11.51.34:457][756]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.23-11.51.34:458][756]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.23-11.51.34:460][756]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.23-11.51.34:460][756]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.23-11.51.34:463][756]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.23-11.51.34:463][756]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.23-11.51.34:477][756]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.23-11.51.34:478][756]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.23-11.51.34:478][756]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.23-11.51.34:478][756]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.23-11.51.34:479][756]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.23-11.51.34:479][756]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.23-11.51.34:495][756]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.23-11.51.34:496][756]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.23-11.51.34:496][756]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BEF8D41-4630-0903-3706-63877AD8FB27%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4b4606144775e3e1af4991ac044b1090%7C%7Ccd9de9e0-e660-4a15-be79-148592ed19c4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.23-11.51.34:500][756]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.23-11.51.34:503][756]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.23-11.51.34:504][756]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.23-11.51.34:504][756]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.23-11.51.34:504][756]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.23-11.51.34:504][756]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.23-11.51.34:504][756]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.23-11.51.34:504][756]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.23-11.51.34:505][756]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.23-11.51.34:505][756]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.23-11.51.34:505][756]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.23-11.51.34:506][756]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.23-11.51.34:507][756]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.23-11.51.34:515][756]LogExit: Exiting.
+[2018.11.23-11.51.34:588][756]Log file closed, 11/23/18 11:51:34

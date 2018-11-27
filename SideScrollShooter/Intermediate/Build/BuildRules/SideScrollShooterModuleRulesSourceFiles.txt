@@ -1,0 +1,3 @@
+C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Source\SideScrollShooter\SideScrollShooter.Build.cs
+C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Source\SideScrollShooter.Target.cs
+C:\Users\l017081h\Documents\GitHub\TGP-Projects\SideScrollShooter\Source\SideScrollShooterEditor.Target.cs
